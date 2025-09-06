@@ -1,4 +1,4 @@
-## Entendendo a lógica de entrega das filas FIFO no Amazon SQS
+### Entendendo a lógica de entrega das filas FIFO no Amazon SQS
 
 Quando falamos de sistemas distribuídos, garantir ordem e consistência na entrega de mensagens é um dos maiores desafios. É aqui que entram as filas FIFO (First-In-First-Out) do Amazon SQS, projetadas para preservar a sequência exata das mensagens e evitar duplicações — algo crítico em cenários como transações financeiras, pedidos de e-commerce e fluxos de eventos sensíveis.
 
